@@ -41,7 +41,7 @@ hr {
 }
 
 p {
-  margin:0;
+  margin: 0;
 }
 
 table {
@@ -69,7 +69,7 @@ th {
 }
 
 .top-logo {
-  height:auto;
+  height: auto;
   width: 18%;
   float: right;
   margin-right: 30px;
@@ -88,12 +88,12 @@ th {
 
 .profile {
   width: 80%;
-  margin:auto;
+  margin: auto;
 }
 
 .skills {
   width: 80%;
-  margin:auto;
+  margin: auto;
 }
 
 .skill-row {
@@ -102,20 +102,21 @@ th {
 }
 
 .skill-img-left {
-  float:left;
-  width:200px;
+  float: left;
+  width: 200px;
   margin: 50px 30px 100px 0;
 }
 
 .skill-img-right {
-  float:right;
-  width:200px;
+  float: right;
+  width: 200px;
   margin: 50px 0 100px 30px;
 }
 
 .skill-quote {
   margin: 80px auto 100px auto;
   text-align: center;
+  display: inline-block;
 }
 
 .contact-me {
@@ -125,50 +126,52 @@ th {
 
 /* This button was generated using CSSButtonGenerator.com */
 .btn {
-	-moz-box-shadow:inset 0 1px 12px 0 #cae3fc;
-	-webkit-box-shadow:inset 0 1px 12px 0 #cae3fc;
-	box-shadow:inset 0 1px 12px 0 #cae3fc;
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee) );
-	background:-moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
-	background-color:#79bbff;
-	-webkit-border-top-left-radius:12px;
-	-moz-border-radius-topleft:12px;
-	border-top-left-radius:12px;
-	-webkit-border-top-right-radius:12px;
-	-moz-border-radius-topright:12px;
-	border-top-right-radius:12px;
-	-webkit-border-bottom-right-radius:12px;
-	-moz-border-radius-bottomright:12px;
-	border-bottom-right-radius:12px;
-	-webkit-border-bottom-left-radius:12px;
-	-moz-border-radius-bottomleft:12px;
-	border-bottom-left-radius:12px;
-	text-indent:0;
-	border:1px solid #469df5;
-	display:inline-block;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:15px;
-	font-weight:bold;
-	font-style:normal;
-	height:43px;
-	line-height:43px;
-	width:100px;
-	text-decoration:none;
-	text-align:center;
-	text-shadow:1px 1px 0 #287ace;
+  -moz-box-shadow: inset 0 1px 12px 0 #cae3fc;
+  -webkit-box-shadow: inset 0 1px 12px 0 #cae3fc;
+  box-shadow: inset 0 1px 12px 0 #cae3fc;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee));
+  background: -moz-linear-gradient(center top, #79bbff 5%, #4197ee 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+  background-color: #79bbff;
+  -webkit-border-top-left-radius: 12px;
+  -moz-border-radius-topleft: 12px;
+  border-top-left-radius: 12px;
+  -webkit-border-top-right-radius: 12px;
+  -moz-border-radius-topright: 12px;
+  border-top-right-radius: 12px;
+  -webkit-border-bottom-right-radius: 12px;
+  -moz-border-radius-bottomright: 12px;
+  border-bottom-right-radius: 12px;
+  -webkit-border-bottom-left-radius: 12px;
+  -moz-border-radius-bottomleft: 12px;
+  border-bottom-left-radius: 12px;
+  text-indent: 0;
+  border: 1px solid #469df5;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  height: 43px;
+  line-height: 43px;
+  width: 100px;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 1px 1px 0 #287ace;
   margin: 20px;
 }
+
 .btn:hover {
-	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4197ee), color-stop(1, #79bbff) );
-	background:-moz-linear-gradient( center top, #4197ee 5%, #79bbff 100% );
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');
-	background-color:#4197ee;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #4197ee), color-stop(1, #79bbff));
+  background: -moz-linear-gradient(center top, #4197ee 5%, #79bbff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');
+  background-color: #4197ee;
 }
+
 .btn:active {
-	position:relative;
-	top:1px;
+  position: relative;
+  top: 1px;
 }
 
 .bottom-container {
