@@ -1,0 +1,190 @@
+/*###################### TAG SELECTORS ####################*/
+body {
+  background-color: #ecfcff;
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, serif;
+}
+
+h1 {
+  margin: 30px;
+  color: #3D68B3;
+  display: inline-block;
+  font-family: Merriweather, serif;
+}
+
+div {
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  margin: 0;
+  color: #3D68B3;
+  font-family: Sacramento, cursive;
+  font-size: 4rem;
+  display: inline-block
+}
+
+h3 {
+  margin: 10px auto 0 auto;
+  color: #3D68B3;
+  font-family: Montserrat, sans-serif;
+  font-size: 2rem;
+  display: inline-block
+}
+
+hr {
+  border: dotted #3D68B3 6px;
+  border-bottom: none;
+  width: 75%;
+  margin: 80px auto 80px auto;
+}
+
+p {
+  margin:0;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  padding: 0 30px 0 30px;
+  text-align: left;
+  line-height: 1;
+}
+
+th {
+  padding: 0 30px 0 30px;
+  text-align: left;
+  line-height: 1;
+}
+
+/*###################### CLASS SELECTORS ####################*/
+/* .class-selector {} */
+.top-container {
+  margin: 0;
+  background-color: #b2fcff;
+  padding: 20px;
+}
+
+.top-logo {
+  height:auto;
+  width: 18%;
+  float: right;
+  margin-right: 30px;
+}
+
+.top-links {
+  color: #3D68B3;
+  margin: 80px 20px 20px 20px;
+}
+
+.middle-container {
+  background-color: #ecfcff;
+  line-height: 2.5;
+  padding: 50px;
+}
+
+.profile {
+  width: 80%;
+  margin:auto;
+}
+
+.skills {
+  width: 80%;
+  margin:auto;
+}
+
+.skill-row {
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+
+.skill-img-left {
+  float:left;
+  width:200px;
+  margin: 50px 30px 100px 0;
+}
+
+.skill-img-right {
+  float:right;
+  width:200px;
+  margin: 50px 0 100px 30px;
+}
+
+.skill-quote {
+  margin: 80px auto 100px auto;
+  text-align: center;
+}
+
+.contact-me {
+  width: 80%;
+  margin: auto;
+}
+
+/* This button was generated using CSSButtonGenerator.com */
+.btn {
+	-moz-box-shadow:inset 0 1px 12px 0 #cae3fc;
+	-webkit-box-shadow:inset 0 1px 12px 0 #cae3fc;
+	box-shadow:inset 0 1px 12px 0 #cae3fc;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+	background-color:#79bbff;
+	-webkit-border-top-left-radius:12px;
+	-moz-border-radius-topleft:12px;
+	border-top-left-radius:12px;
+	-webkit-border-top-right-radius:12px;
+	-moz-border-radius-topright:12px;
+	border-top-right-radius:12px;
+	-webkit-border-bottom-right-radius:12px;
+	-moz-border-radius-bottomright:12px;
+	border-bottom-right-radius:12px;
+	-webkit-border-bottom-left-radius:12px;
+	-moz-border-radius-bottomleft:12px;
+	border-bottom-left-radius:12px;
+	text-indent:0;
+	border:1px solid #469df5;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:43px;
+	line-height:43px;
+	width:100px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0 #287ace;
+}
+.btn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4197ee), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #4197ee 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');
+	background-color:#4197ee;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+  margin: 0;
+  height: 120px;
+  background-color: #b2fcff;
+  padding: 20px;
+}
+
+.bottom-links {
+  color: #3D68B3;
+  margin: 20px 20px 20px 20px;
+}
+
+.bottom-bottom {
+  margin: 20px auto 20px auto;
+}
+
+/*###################### ID SELECTORS ####################*/
+/* #id-selector{} */
