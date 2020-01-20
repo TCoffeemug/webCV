@@ -1,0 +1,53 @@
+
+body {
+  background-color: #ecfcff;
+  color: #3D68B3;
+}
+
+
+
+/* ********** title section ********** */
+
+.title-section {
+  background-color: #b2fcff;
+  font-family: Merriweather, serif;
+  color: #3D68B3;
+}
+
+.brand-title {
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  color: #3D68B3;
+}
+
+
+
+/* ********** content section ********** */
+
+
+
+
+
+/* ********** footer section ********** */
+
+.footer-section {
+  background-color: #b2fcff;
+  text-align: center;
+  font-family: Merriweather, serif;
+}
+
+.bottom-links {
+  margin: 20px;
+  color: #3D68B3;
+}
+
+.bottom-p {
+  margin: 10px auto;
+}
+
+.bottom-info {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
