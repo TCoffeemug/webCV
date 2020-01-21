@@ -49,13 +49,13 @@ table {
 }
 
 td {
-  padding: 0 30px 0 30px;
+  padding: 10px 30px 10px 30px;
   text-align: left;
   line-height: 1;
 }
 
 th {
-  padding: 0 30px 0 30px;
+  padding: 10px 30px 10px 30px;
   text-align: left;
   line-height: 1;
 }
@@ -190,5 +190,10 @@ th {
   margin: 20px auto 20px auto;
 }
 
-/*###################### ID SELECTORS ####################*/
-/* #id-selector{} */
+/*###################### Projects selectors ####################*/
+
+.job-divider {
+  border: solid #3D68B3 2px;
+  width: 25%;
+  margin: 80px auto 80px auto;
+}
