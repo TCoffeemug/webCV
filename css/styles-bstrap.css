@@ -4,24 +4,51 @@ body {
   color: #3D68B3;
 }
 
+/* Navigation Bar */
+.nav-item {
+  color: #3D68B3;
+  padding: 0 18px;
+  font-size: 1.2rem;
+}
+
+#home-nav-link {
+  color: #3D68B3;
+}
+
+#cv-nav-link {
+  color: #3D68B3;
+}
+
+#projects-nav-link {
+  color: #3D68B3;
+}
+
+#contact-nav-link {
+  color: #3D68B3;
+}
+
+.navbar-toggler {
+  color: #3D68B3;
+}
 
 
 /* ********** title section ********** */
-
 .title-section {
   background-color: #b2fcff;
   font-family: Merriweather, serif;
   color: #3D68B3;
 }
 
-.brand-title {
-  font-size: 1.5rem;
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin: 0 4% 4% 4%;
+  align-self: center;
 }
 
-.nav-link {
-  color: #3D68B3;
+.container-fluid{
+  padding: 4% 10% 4% 10%;
 }
-
 
 
 /* ********** content section ********** */
